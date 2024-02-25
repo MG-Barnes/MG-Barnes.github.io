@@ -3,7 +3,7 @@ You should replace it with '.Render "summary-with-image-gallery"' as the use of 
 More info here: https://github.com/theNewDynamic/gohugo-theme-ananke/releases/tag/v2.8.1` }}
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 <article class="bb b--black-10">
-  <a href="/gallery" class="db grow">
+  <a href="{{.RelPermalink}}" class="db grow">
     <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
   </a>
 </article>
