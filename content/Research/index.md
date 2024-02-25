@@ -6,7 +6,7 @@ menu:
 
 Biology has no distinct separation between the material, structure, and machine. Rather, there is a nested, cohesive functionality across all length scales to produce extraordinary functions where the material itself is the machine. To bridge the gap between engineered and biological soft solids our group merges recent polymer advances to design smart materials with hierarchical functionality for applications in soft-robotics, responsive biomimetic devices, and haptic displays. 
 
-![](/images/pipeline.png)
+![](../static/images/pipeline.png)
 
 At the **molecular** level, we use chemistry to obtain sophisticated intrinsic functionality such as dynamic bonds for ’green’ recylability or memory and azo-benzene derivatives for photo-responsiveness, and liquid crystals for phase-dependent shape-shifting. 
 
