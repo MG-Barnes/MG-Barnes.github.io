@@ -9,7 +9,7 @@ menu:
 # Principle Investigator
 ## Morgan Barnes, PhD
 
-![image](/images/Barnes_headshot.jpg)
+![image](/images/Barnes_headshot.JPG)
 
 Cotact: Morgan.Barnes@ucl.ac.uk, [Current CV](/images/Barnes_CV.pdf)
 
