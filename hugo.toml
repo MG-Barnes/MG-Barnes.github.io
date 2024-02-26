@@ -1,4 +1,4 @@
-baseURL = 'https://mgbarnes.com/'
+baseURL = 'https://www.mgbarnes.com/'
 languageCode = 'en-us'
 title = 'Smart Manufacturing Group'
 theme = 'ananke'
