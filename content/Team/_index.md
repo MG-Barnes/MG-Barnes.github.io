@@ -12,7 +12,12 @@ menu:
 ![image](../../static/images/Barnes_headshot.JPG)
 ananke method
 
-{{< figure src="/images/Barnes_headshot.JPG" title="Barnes Headshot" >}}
+{{< figure src="./images/Barnes_headshot.JPG" title="Barnes Headshot" >}}
+
+![image](./static/images/Barnes_headshot.JPG)
+![image](./images/Barnes_headshot.JPG)
+
+
 
 Cotact: Morgan.Barnes@ucl.ac.uk, [Current CV](/images/Barnes_CV.pdf)
 
