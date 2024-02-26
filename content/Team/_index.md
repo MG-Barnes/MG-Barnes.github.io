@@ -15,7 +15,9 @@ ananke method
 {{< figure src="./images/Barnes_headshot.JPG" title="Barnes Headshot" >}}
 
 [headshot jpg](/images/Barnes_headshot.JPG)
-[headshot pdf](/images/Barnes_headshot.pfd)
+[headshot pfd](/images/Barnes_headshot.pfd)
+[headshot pdf](/images/Barnes_headshot.pdf)
+
 
 
 ![image](./static/images/Barnes_headshot.JPG)
