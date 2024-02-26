@@ -10,7 +10,8 @@ menu:
 ## Morgan Barnes, PhD
 
 /images/barnes_headshot
-![image](/images/Barnes_headshot.JPG)
+
+![image](../../static/images/Barnes_headshot.JPG)
 
 ![Current CV](/images/Barnes_CV.pdf)
 
