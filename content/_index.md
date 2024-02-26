@@ -5,9 +5,9 @@ description: "Our group leverages recent breakthroughs in chemistry, mechanics, 
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/curvy.jpg'
+  featured_image: '/images/curvy.jpg'
 ---
-![image](/images/UCL_logo.pdf)
+![image](/images/UCL_logo.jpg)
 
 ## [Manufacturings Futures Laboratory](https://www.ucl.ac.uk/manufacturing-futures-lab/ucl-manufacturing-futures-lab)
 
