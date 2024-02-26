@@ -10,9 +10,12 @@ menu:
 ## Morgan Barnes, PhD
 
 [image](/images/Barnes_headshot.jpg)
-ananke method
+[image](/Barnes_headshot.jpg)
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/f/f7/Soft_Elasticity_Stress_Strain_Curve.png)
+
+[website](https://upload.wikimedia.org/wikipedia/commons/f/f7/Soft_Elasticity_Stress_Strain_Curve.png)
+
 
 
 Cotact: Morgan.Barnes@ucl.ac.uk, [Current CV](/images/Barnes_CV.pdf)
