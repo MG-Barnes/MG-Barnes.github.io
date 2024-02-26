@@ -1,10 +1,10 @@
 ---
 date: 2016-12-29T11:00:59-04:00
-description: Hello this is an abstract
+description: 
 featured_image: "/images/Face_LCE.gif"
 tags: []
-title: "Molecular engineering of step-growth liquid crystal elastomers"
-link: https://www.sciencedirect.com/science/article/abs/pii/S0925400516321128/
+title: "LCE Face"
+link: https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/
 ---
 
 An LCE that was mechanically programmed to transform between a sheet and a human face. 
