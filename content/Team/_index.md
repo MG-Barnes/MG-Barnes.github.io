@@ -9,18 +9,7 @@ menu:
 # Principle Investigator
 ## Morgan Barnes, PhD
 
-[image](./images/Barnes_headshot.jpg)
-
-[image](./Barnes_headshot.jpg)
-
-[image](/images/Barnes_headshot.pdf)
-
-
-![image](https://upload.wikimedia.org/wikipedia/commons/f/f7/Soft_Elasticity_Stress_Strain_Curve.png)
-
-[website](https://upload.wikimedia.org/wikipedia/commons/f/f7/Soft_Elasticity_Stress_Strain_Curve.png)
-
-
+![image](/images/Barnes_headshot.jpg)
 
 Cotact: Morgan.Barnes@ucl.ac.uk, [Current CV](/images/Barnes_CV.pdf)
 
