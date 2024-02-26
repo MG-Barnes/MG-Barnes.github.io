@@ -9,7 +9,10 @@ menu:
 # Principle Investigator
 ## Morgan Barnes, PhD
 
+github link
 ![image](https://raw.githubusercontent.com/MG-Barnes/MG-Barnes.github.io/main/static/images/Barnes_headshot.JPG)
+
+/images/barnes_headshot
 ![image](/images/Barnes_headshot.JPG)
 
 
