@@ -7,7 +7,7 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/curvy.jpg'
 ---
-![image](../static/images/UCL_logo.pdf)
+![image](/images/UCL_logo.pdf)
 
 ## [Manufacturings Futures Laboratory](https://www.ucl.ac.uk/manufacturing-futures-lab/ucl-manufacturing-futures-lab)
 
