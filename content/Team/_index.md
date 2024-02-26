@@ -9,11 +9,10 @@ menu:
 # Principle Investigator
 ## Morgan Barnes, PhD
 
-/images/barnes_headshot
-
 ![image](../../static/images/Barnes_headshot.JPG)
+ananke method
 
-![Current CV](/images/Barnes_CV.pdf)
+{{< figure src="/images/Barnes_headshot.JPG" title="Barnes Headshot" >}}
 
 Cotact: Morgan.Barnes@ucl.ac.uk, [Current CV](/images/Barnes_CV.pdf)
 
