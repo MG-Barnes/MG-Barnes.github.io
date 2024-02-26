@@ -9,11 +9,11 @@ menu:
 # Principle Investigator
 ## Morgan Barnes, PhD
 
-[image](/images/Barnes_headshot.jpg)
+[image](./images/Barnes_headshot.jpg)
 
-[image](/Barnes_headshot.jpg)
+[image](./Barnes_headshot.jpg)
 
-[image](/images/Barnes_headshot.pdf)
+[image](./images/Barnes_headshot.pdf)
 
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/f/f7/Soft_Elasticity_Stress_Strain_Curve.png)
