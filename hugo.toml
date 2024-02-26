@@ -9,13 +9,6 @@ Paginate = 300 # this is set low for demonstrating with dummy content. Set to a 
 summaryLength = 70
 
 canonifyURLs = true
-[[module.mounts]]
-source = 'static'
-target = 'static'
-
-[[module.mounts]]
-source = 'images'
-target = 'static/images'
 
 [[params.ananke_socials]]
 name = "twitter"
