@@ -1,6 +1,6 @@
 baseURL = 'https://www.MG-Barnes.github.io'
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["ananke"]
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
