@@ -12,7 +12,7 @@ Paper: M. Barnes,R. Verduzco,[Direct Shape Programming of Liquid Crystal Elastom
 
 This work was featured [Rice News](http://news.rice.edu/2018/12/20/mighty-morphing-materials-take-complex-shapes/), [C&EN News](https://cen.acs.org/materials/Programmable-polymer-forms-complex-shapes/97/i3), and the Royal Society of Chemistry's [Chemistry World](https://www.chemistryworld.com/news/liquid-crystals-shape-up-on-demand/3009945.article). 
 
-![image](/images/Face_LCE.gif)
+![image](/images/flower.gif)
 
 {{< youtube 8RVlnatMPjc >}}
 
