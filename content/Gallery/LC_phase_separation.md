@@ -7,3 +7,5 @@ title: "Self-Assembled LCE Microstructure"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0925400516321128/
 ---
 ![](/images/molecular.JPG)
+
+Self-assembled liquid crystal structure that occurs due to phase separation in immiscible liquids. 
