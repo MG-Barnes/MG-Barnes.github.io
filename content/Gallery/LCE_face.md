@@ -16,13 +16,6 @@ This work was featured [Rice News](http://news.rice.edu/2018/12/20/mighty-morphi
 ![image](/images/Face_LCE.gif)
 
 {{< youtube 8RVlnatMPjc >}}
+
 {{< youtube bmpVSqj2U2I >}}
 
-
-<div class="embedded-iframe" style ="text-align:center;">
-            <iframe src="https://www.youtube.com/embed/8RVlnatMPjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="embedded-iframe">
-            <iframe src="https://www.youtube.com/embed/bmpVSqj2U2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
