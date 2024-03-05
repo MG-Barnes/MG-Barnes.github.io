@@ -7,7 +7,7 @@ title: "LCE Face"
 link: 
 ---
 
-An LCE that was mechanically programmed to transform between a sheet and a human face. 
+An LCE was mechanically programmed to transform between a sheet and a human face. 
 
 Paper: M. Barnes,R. Verduzco,[Direct Shape Programming of Liquid Crystal Elastomers](https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/). Soft Matter 2019
 
