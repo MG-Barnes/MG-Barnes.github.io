@@ -9,11 +9,15 @@ link: https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbst
 
 An LCE that was mechanically programmed to transform between a sheet and a human face. 
 
-Paper: <b>M. Barnes</b>,R. Verduzco, <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/">Direct Shape Programming of Liquid Crystal Elastomers</a>. Soft Matter 2019
+Paper: M. Barnes,R. Verduzco,[Direct Shape Programming of Liquid Crystal Elastomers](https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/). Soft Matter 2019
 
-This work was featured <a href="http://news.rice.edu/2018/12/20/mighty-morphing-materials-take-complex-shapes/">Rice News</a>, <a href="https://cen.acs.org/materials/Programmable-polymer-forms-complex-shapes/97/i3">C&EN News</a>, and the Royal Society of Chemistry's <a href="https://www.chemistryworld.com/news/liquid-crystals-shape-up-on-demand/3009945.article">Chemistry World</a>. 
+This work was featured [Rice News](http://news.rice.edu/2018/12/20/mighty-morphing-materials-take-complex-shapes/), [C&EN News](https://cen.acs.org/materials/Programmable-polymer-forms-complex-shapes/97/i3">C&EN News), and the Royal Society of Chemistry's [Chemistry World](https://www.chemistryworld.com/news/liquid-crystals-shape-up-on-demand/3009945.article). 
 
 ![image](/images/Face_LCE.gif)
+
+{{< youtube 8RVlnatMPjc >}}
+{{< youtube bmpVSqj2U2I >}}
+
 
 <div class="embedded-iframe" style ="text-align:center;">
             <iframe src="https://www.youtube.com/embed/8RVlnatMPjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
