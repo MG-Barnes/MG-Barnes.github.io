@@ -1,5 +1,5 @@
 ---
-date: 2016-12-29T11:00:59-04:00
+date: 
 description: 
 featured_image: "/images/flower.gif"
 tags: []
