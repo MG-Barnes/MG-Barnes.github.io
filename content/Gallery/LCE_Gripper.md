@@ -7,7 +7,7 @@ title: "LCE Gripper"
 link: 
 ---
 
-{{<video library ='1' src = gripper.mp4 controls = yes>}}
+{{< video src="/images/gripper.mp4" type="video/mp4" preload="auto" >}}
 
 A strong 3D printed LCE gripper with intrinsically curved folds. 
 
