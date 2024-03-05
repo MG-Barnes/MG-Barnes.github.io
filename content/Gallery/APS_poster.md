@@ -9,4 +9,4 @@ link: /gallery
 
 Some beautiful double twinning we see in LCEs with twisted/curved boundaries. This poster was submitted to APS DSOFT Gallery of Soft Image Contest.
 
-![image](../../static/images/P027_Twisted_Twins.JPG)
+![image](/images/P027_Twisted_Twins.JPG)
