@@ -1,10 +1,10 @@
 ---
-date: 2016-12-29T11:00:59-04:00
+date: 
 description: 
 featured_image: "/images/Face_LCE.gif"
 tags: []
 title: "LCE Face"
-link: https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract/
+link: 
 ---
 
 An LCE that was mechanically programmed to transform between a sheet and a human face. 
