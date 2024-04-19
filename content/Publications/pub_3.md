@@ -3,7 +3,7 @@ date: 2019-05-08T11:00:59-04:00
 description: Hello this is an abstract
 featured_image: "/images/pub_3.png"
 tags: []
-title: "Fiber Reinforced Layered Dielectric Nanocomposite"
+title: "3. Fiber Reinforced Layered Dielectric Nanocomposite"
 link: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201900056
 ---
 
