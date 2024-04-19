@@ -3,7 +3,7 @@ date: 2019-02-02T11:00:59-04:00
 description: Hello this is an abstract
 featured_image: "/images/pub_2.png"
 tags: []
-title: "Direct shape programming of liquid crystal elastomers"
+title: "2. Direct shape programming of liquid crystal elastomers"
 link: https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm02174k#!divAbstract
 ---
 
