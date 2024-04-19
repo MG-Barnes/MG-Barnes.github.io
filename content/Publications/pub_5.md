@@ -3,7 +3,7 @@ date: 2019-05-10T11:00:59-04:00
 description: "M. Barnes, S. Sajadi, S. Parekh, M. M. Rahman, P. M. Ajayan, R. Verduzco"
 featured_image: "/images/pub_16.png"
 tags: []
-title: "Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomer Actuators"
+title: "5. Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomer Actuators"
 link: https://pubs.acs.org/doi/10.1021/acsami.0c07331
 ---
 
