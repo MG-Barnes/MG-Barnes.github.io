@@ -3,7 +3,7 @@ date: 2021-04-29T11:00:59-04:00
 description: D. Zhu, Z. Zhang, Y. Li, M. Barnes, S. Khalil, M.M. Rahman, P. Ajayan, R. Verduzco
 featured_image: "/images/pub_7.png"
 tags: []
-title: " Rapid, Ambient Temperature Synthesis of Imine Covalent Organic Frameworks Catalyzed by Transition Metal Nitrates"
+title: "7. Rapid, Ambient Temperature Synthesis of Imine Covalent Organic Frameworks Catalyzed by Transition Metal Nitrates"
 link: https://pubs.acs.org/doi/10.1021/acs.chemmater.1c00737
 ---
 
