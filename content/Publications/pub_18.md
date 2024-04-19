@@ -3,7 +3,7 @@ date: 2024-02-01T11:00:59-04:00
 description: F. Fang, K. Dradrach, M. Zmyślony, M. Barnes, J. S. Biggins
 featured_image: "/images/pub_18.png"
 tags: []
-title: "Geometry, mechanics and actuation of intrinsically curved folds"
+title: "18. Geometry, mechanics and actuation of intrinsically curved folds"
 link: https://pubs.rsc.org/en/content/articlelanding/2024/sm/d3sm01584j
 ---
 
