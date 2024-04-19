@@ -3,7 +3,7 @@ date: 2020-05-04T11:00:59-04:00
 description: 
 featured_image: "/images/pub_16.png"
 tags: []
-title: "Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits"
+title: "4. Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits"
 link: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908291
 ---
 
