@@ -1,9 +1,9 @@
 ---
 date: 2022-02-07T11:00:59-04:00
 description: M. Barnes, D. C. Mcleod, R. H. Lambeth
-featured_image: "/images/pub_16.png"
+featured_image: "/images/pub_12.png"
 tags: []
-title: "Highly Crystalline, Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions"
+title: "12. Highly Crystalline, Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions"
 link: https://pubs.acs.org/doi/10.1021/acsapm.1c01828?fig=tgr1&ref=pdf
 ---
 
