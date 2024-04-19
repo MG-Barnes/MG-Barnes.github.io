@@ -3,7 +3,7 @@ date: 2021-06-03T11:00:59-04:00
 description: D. Zhu, G. Xu, M. Barnes, Y. Li, C. P. Tseng, Z. Zhang, J. J. Zhang, Y. Zhu, S. Khalil, M. M. Rahman, R. Verduzco, P. M. Ajayan
 featured_image: "/images/pub_9.png"
 tags: []
-title: "Covalent Organic Frameworks for Batteries"
+title: "9. Covalent Organic Frameworks for Batteries"
 link: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100505
 ---
 
