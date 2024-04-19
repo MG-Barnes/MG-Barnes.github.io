@@ -3,7 +3,7 @@ date: 2021-05-24T11:00:59-04:00
 description: D. Zhu, Y. Zhu, Q. Yan, M. Barnes, F. Liu, P. Yu, C.-P. Tseng, N. Tjahjono, P.-C. Huang, M. M. Rahman, E. Egap, P. M. Ajayan, R. Verduzco
 featured_image: "/images/pub_8.png"
 tags: []
-title: "Pure Crystalline Covalent Organic Framework Aerogels"
+title: "8. Pure Crystalline Covalent Organic Framework Aerogels"
 link: https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c01122
 ---
 
