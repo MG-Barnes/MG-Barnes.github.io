@@ -3,7 +3,7 @@ date: 2023-09-04T11:00:59-04:00
 description: A. Ajnsztajn, V. Harikrishnan, S. B. Alahakoon, D. Zhu, M. Barnes, J. Daum, J. Gayle, G. Tomur, J. Lowenstein, S. Roy, P. M. Ajayan, and R. Verduzco
 featured_image: "/images/pub_15.png"
 tags: []
-title: "Synthesis and Additive Manufacturing of Hydrazone-Linked Covalent Organic Framework Aerogels"
+title: "15. Synthesis and Additive Manufacturing of Hydrazone-Linked Covalent Organic Framework Aerogels"
 link: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202302304
 ---
 
