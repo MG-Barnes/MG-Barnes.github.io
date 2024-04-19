@@ -3,7 +3,7 @@ date: 2023-12-07T11:00:59-04:00
 description: Hello this is an abstract
 featured_image: "/images/pub_17.png"
 tags: []
-title: "Surface instability in a nematic elastomer"
+title: "17. Surface instability in a nematic elastomer"
 link: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.238101
 ---
 
