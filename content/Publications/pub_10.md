@@ -3,7 +3,7 @@ date: 2021-08-08T11:00:59-04:00
 description: D. Zhu, Z. Hu, T. K. Rogers, M. Barnes, C. Tseng, H. Mei, L. M. Sassi, Z. Zhang, M. M. Rahman, P. M. Ajayan, R. Verduzco
 featured_image: "/images/pub_10.png"
 tags: []
-title: "Patterning, Transfer, and Tensile Testing of Covalent Organic Framework Films with Nanoscale Thickness"
+title: "10. Patterning, Transfer, and Tensile Testing of Covalent Organic Framework Films with Nanoscale Thickness"
 link: https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c01179
 ---
 
