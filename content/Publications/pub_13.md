@@ -3,7 +3,7 @@ date: 2022-06-20T11:00:59-04:00
 description: M. Barnes, S. Cetinkaya, A. Ajnsztajn, R. Verduzco
 featured_image: "/images/pub_13.png"
 tags: []
-title: "Understanding the effect of liquid crystal content on the phase behavior and mechanical properties of liquid crystal elastomers"
+title: "13. Understanding the effect of liquid crystal content on the phase behavior and mechanical properties of liquid crystal elastomers"
 link: https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00480a
 ---
 
