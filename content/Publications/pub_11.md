@@ -3,7 +3,7 @@ date: 2021-10-15T11:00:59-04:00
 description: S. Susarla, G. Chilkoor, Y. Cui, T. Arif, A. Puthirath, T. Tsafack, P. Sudeep, S. Castro-Pardo, M. Barnes, R. Verduzco, N. Koratkar, T. Filleter, G. Venkataramana, M. Rahman, P. Ajayan
 featured_image: "/images/pub_11.png"
 tags: []
-title: "Corrosion Resistance of Sulfur-Selenium Alloy Coatings"
+title: "11. Corrosion Resistance of Sulfur-Selenium Alloy Coatings"
 link: https://onlinelibrary.wiley.com/doi/10.1002/adma.202104467
 ---
 
