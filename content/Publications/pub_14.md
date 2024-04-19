@@ -3,7 +3,7 @@ date: 2019-05-10T11:00:59-04:00
 description: S. Khalil, M. Meyer, M. Samani, C. Huang, M. Barnes, A. Marciel, R. Verduzco
 featured_image: "/images/pub_14.png"
 tags: []
-title: "Enabling Solution Processable COFs through Suppression of Precipitation during Solvothermal Synthesis"
+title: "14. Enabling Solution Processable COFs through Suppression of Precipitation during Solvothermal Synthesis"
 link: https://pubs.acs.org/doi/full/10.1021/acsnano.2c08580
 ---
 
