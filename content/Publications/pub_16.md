@@ -4,7 +4,7 @@ description: A.Khater,S.Bhattacharyya,M.Saadi,M.Barnes,M.Lou,V.Harikrishnan,S.M.
 featured_image: "/images/pub_16.png"
 journal: "Cell Press"
 tags: []
-title: "Processing dynamics of carbon nanotube-epoxy nanocomposites during 3D printing"
+title: "16. Processing dynamics of carbon nanotube-epoxy nanocomposites during 3D printing"
 link: https://www.sciencedirect.com/science/article/pii/S2666386423004307?via%3Dihub
 ---
 
